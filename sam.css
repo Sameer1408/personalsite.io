@@ -50,3 +50,17 @@ h3{text-align: center}
 footer{text-align: center;padding: 2px}
 #Work{margin-top: 90px}
 #contact{margin-top: 40px;margin-bottom: 10px}
+
+
+@media (max-width:600px){
+    h2{font-size: 40px}
+    .java{width: 73%}
+    .html{width: 75%}
+.css{width: 35%}
+.boots{width: 59%}
+.node{width: 90%}
+
+.jqurry{width: 50%}
+.react{width: 65%}
+    .respara{font-size: 20px}
+    
